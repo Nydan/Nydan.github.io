@@ -1,7 +1,7 @@
 {
   "name": "how-to-gatsby-portfolio",
   "description": "Personal Web for Danny",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "Danny Aguswahyudi",
   "dependencies": {
     "babel-plugin-styled-components": "^1.12.0",
